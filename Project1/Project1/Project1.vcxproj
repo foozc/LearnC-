@@ -128,6 +128,7 @@
     <ClCompile Include="_2_选择结构_if_else预计.cpp" />
     <ClCompile Include="_5_选择结构案例_三只小猪称重.cpp" />
     <ClCompile Include="_6_选择结构_三目运算符.cpp" />
+    <ClCompile Include="_7_选择结构_swtich语句.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

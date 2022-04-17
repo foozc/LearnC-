@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main6() {
 	//C++中三目运算符返回的是变量，可以继续赋值
 	int a = 0, b = 10, c = 100;
 	a =( b > c ? b : c);

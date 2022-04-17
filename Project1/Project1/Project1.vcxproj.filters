@@ -30,5 +30,8 @@
     <ClCompile Include="_6_选择结构_三目运算符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_7_选择结构_swtich语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
