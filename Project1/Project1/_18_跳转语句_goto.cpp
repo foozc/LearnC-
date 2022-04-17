@@ -4,8 +4,8 @@
 #include<iostream>
 using namespace std;
 
-int main()
-//int main__18_跳转语句_goto()
+//int main()
+int main__18_跳转语句_goto()
 {
 	//goto FLAG;
 	cout << "1\XXXX" << endl;

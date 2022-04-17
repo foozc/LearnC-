@@ -142,7 +142,27 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="_19_数组_.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="_1_选择结构_if语句.cpp" />
+    <ClCompile Include="_20_一维数组_小猪称体重.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="_20_数组_数组名称.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="_21_一维数组_元素倒置.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="_22_一维数组_冒泡排序.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="_3_选择结构_嵌套if.cpp" />
     <ClCompile Include="_2_选择结构_if_else预计.cpp" />
     <ClCompile Include="_5_选择结构案例_三只小猪称重.cpp" />

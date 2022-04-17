@@ -69,5 +69,20 @@
     <ClCompile Include="_18_跳转语句_goto.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_19_数组_.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_20_数组_数组名称.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_20_一维数组_小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_21_一维数组_元素倒置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_22_一维数组_冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
