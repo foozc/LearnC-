@@ -39,5 +39,17 @@
     <ClCompile Include="_9_循环结构案例_猜数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_10_循环结构_dowhile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_循环结构案例_水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_循环结构_for循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_循环结构_敲桌子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
