@@ -130,6 +130,7 @@
     <ClCompile Include="_6_选择结构_三目运算符.cpp" />
     <ClCompile Include="_7_选择结构_swtich语句.cpp" />
     <ClCompile Include="_8_循环结构_while循环.cpp" />
+    <ClCompile Include="_9_循环结构案例_猜数字.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

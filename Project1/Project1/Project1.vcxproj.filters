@@ -36,5 +36,8 @@
     <ClCompile Include="_8_循环结构_while循环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_9_循环结构案例_猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
