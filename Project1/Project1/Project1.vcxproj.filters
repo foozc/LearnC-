@@ -51,5 +51,23 @@
     <ClCompile Include="_13_循环结构_敲桌子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_14_嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_嵌套循环案例_乘法口诀表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="new_template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_17_跳转语句_continue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_跳转语句_break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_18_跳转语句_goto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

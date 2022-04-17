@@ -123,10 +123,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="new_template.cpp" />
     <ClCompile Include="_10_循环结构_dowhile.cpp" />
     <ClCompile Include="_11_循环结构案例_水仙花数.cpp" />
     <ClCompile Include="_12_循环结构_for循环.cpp" />
     <ClCompile Include="_13_循环结构_敲桌子.cpp" />
+    <ClCompile Include="_14_嵌套循环.cpp" />
+    <ClCompile Include="_15_嵌套循环案例_乘法口诀表.cpp" />
+    <ClCompile Include="_16_跳转语句_break.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="_17_跳转语句_continue.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="_18_跳转语句_goto.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="_1_选择结构_if语句.cpp" />
     <ClCompile Include="_3_选择结构_嵌套if.cpp" />
     <ClCompile Include="_2_选择结构_if_else预计.cpp" />
