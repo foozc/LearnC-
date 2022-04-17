@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main7() {
 	int score;
 	cout << "输入你的电影评分(0-10)" << endl;
 	cin >> score;

@@ -33,5 +33,8 @@
     <ClCompile Include="_7_选择结构_swtich语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_8_循环结构_while循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
