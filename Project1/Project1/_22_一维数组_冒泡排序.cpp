@@ -4,8 +4,8 @@
 #include<iostream>
 using namespace std;
 
-int main()
-//int main__22_一维数组_冒泡排序()
+//int main()
+int main__22_一维数组_冒泡排序()
 {
 	int arr[9] = { 4,5,8,6,1,7,9,3,2 };
 	int temp;

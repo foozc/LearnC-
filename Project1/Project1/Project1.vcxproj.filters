@@ -84,5 +84,8 @@
     <ClCompile Include="_22_一维数组_冒泡排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_23_二维数组的定义_.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
