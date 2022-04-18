@@ -4,8 +4,8 @@
 #include<iostream>
 using namespace std;
 
-int main()
-//int main__23_二维数组的定义_()
+//int main()
+int main__23_二维数组的定义_()
 {
 	//二维数组的定义方式
 	/*

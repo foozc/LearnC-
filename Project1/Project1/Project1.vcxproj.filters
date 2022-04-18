@@ -87,5 +87,8 @@
     <ClCompile Include="_23_二维数组的定义_.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_24_二维数组的名称_.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

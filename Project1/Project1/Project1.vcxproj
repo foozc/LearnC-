@@ -167,6 +167,10 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="_24_二维数组的名称_.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="_3_选择结构_嵌套if.cpp" />
     <ClCompile Include="_2_选择结构_if_else预计.cpp" />
     <ClCompile Include="_5_选择结构案例_三只小猪称重.cpp" />
