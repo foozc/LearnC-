@@ -90,5 +90,8 @@
     <ClCompile Include="_24_二维数组的名称_.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_25_二维数组的案例_成绩统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
