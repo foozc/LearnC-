@@ -5,8 +5,8 @@
 #include<string>
 using namespace std;
 
-int main__25_二维数组的案例_成绩统计()
-//int main()
+//int main__25_二维数组的案例_成绩统计()
+int main()
 {
 	int arr[4][3] = {
 		{100,100,100},
