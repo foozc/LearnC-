@@ -4,14 +4,14 @@
 #include<iostream>
 using namespace std;
 
-int add(int num1, int num2) {
+int add(int num1, int num2) {//形参
 	return num1 + num2;
 }
 
-int main()
-//int main__1_函数_函数的定义()
+//int main()
+int main__1_函数_函数的定义()
 {
-	int a = 1, b = 2;
+	int a = 1, b = 2;//实参
 	int c = add(a, b);
 	cout << "a = " << a << endl;
 	cout << "b = " << b << endl;

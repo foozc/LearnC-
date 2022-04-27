@@ -18,5 +18,11 @@
     <ClCompile Include="_1_函数_函数的定义.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_3_函数_值传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_函数_常见形式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

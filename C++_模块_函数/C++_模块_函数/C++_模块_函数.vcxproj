@@ -127,6 +127,14 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="_3_函数_值传递.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="_4_函数_常见形式.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
