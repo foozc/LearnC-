@@ -24,5 +24,8 @@
     <ClCompile Include="_4_函数_常见形式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="_5_函数的声明_.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
