@@ -8,7 +8,7 @@ using namespace std;
 int max(int a, int b);
 int max(int a, int b,int c);
 //声明可以写多次，但定义只能写一次
-
+//多次定义2222
 int main__5_函数的声明_()
 //int main()
 {
@@ -20,6 +20,7 @@ int main__5_函数的声明_()
 
 //函数的定义	
 int max(int a,int b) {
+	int test;
 	return a > b ? a : b;
 }
 int max(int a, int b,int c) {
