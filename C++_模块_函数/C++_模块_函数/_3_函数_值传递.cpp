@@ -4,7 +4,7 @@
 #include<iostream>
 using namespace std;
 
-void swap(int a, int b) {
+void swap2(int a, int b) {
 	cout << "交换前，a=" << a << ",b=" << b << endl;
 
 	int temp = b;
@@ -24,7 +24,7 @@ int main__3_函数_值传递()
 {
 	int A = 1, B = 2;
 	cout << "交换前，A=" <<A<< ",B=" <<B << endl;
-	swap(A, B);
+	swap2(A, B);
 	cout << "交换后，A=" << A << ",B=" << B << endl;
 
 	//值传递时，形参是无法改变实参的
