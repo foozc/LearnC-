@@ -4,8 +4,8 @@
 #include<iostream>
 using namespace std;
 
-//int main__1_指针的定义_()
-int main()
+int main__1_指针的定义_()
+//int main()
 {
 	int a = 10;
 	int *p = &a;
