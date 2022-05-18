@@ -7,8 +7,11 @@ using namespace std;
 int main__1_指针的定义_()
 //int main()
 {
-	int a = 10;
-	int *p = &a;
+	int a = 10,b=0;
+	int *p = NULL;
+	p = &a;
+	p = &b;
+
 	cout <<"a="<< a << endl;
 	cout <<"p="<< p << endl;
 	cout <<"*p="<< *p<<endl;

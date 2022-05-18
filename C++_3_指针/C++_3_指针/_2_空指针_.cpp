@@ -4,8 +4,8 @@
 #include<iostream>
 using namespace std;
 
-//int main__2_空指针_()
-int main()
+int main__2_空指针_()
+//int main()
 {
 	int *p = NULL;//无法访问 0-255，系统区域，禁止访问
 	//1.空指针用于对指针变量的初始化
